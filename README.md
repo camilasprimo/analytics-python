@@ -11,7 +11,7 @@ Este notebook mostra como conectar-se a um banco de dados **SQL Server** usando 
 ---
 
 ### Tecnologias utilizadas
-- Python 3.19  
+- Python 3.11  
 - [pyodbc](https://github.com/mkleehammer/pyodbc)  
 - [pandas](https://pandas.pydata.org/)  
 - [openpyxl](https://openpyxl.readthedocs.io/)  
