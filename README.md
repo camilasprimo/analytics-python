@@ -1,12 +1,10 @@
-# analytics-python
-
 # 📊 Analytics com Python
 
 Repositório criado para armazenar notebooks de **análise de dados, engenharia de dados e automações em Python**.
 
 ---
 
-## 🚀 Projeto Atual: Read-SQLServer
+## Read-SQLServer
 
 Este notebook mostra como conectar-se a um banco de dados **SQL Server** usando Python, realizar consultas, listar tabelas e exportar os resultados para Excel e TXT.
 
@@ -25,5 +23,6 @@ Este notebook mostra como conectar-se a um banco de dados **SQL Server** usando 
 #### 1. Instalação das bibliotecas
 ```python
 !pip install pyodbc pandas openpyxl
+```
 
 ✍️ Autor: Camila Primo
